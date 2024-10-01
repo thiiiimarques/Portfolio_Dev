@@ -1,0 +1,85 @@
+header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 750px;
+  background-image: url(../assets/images/Background_Intro.png);
+  background-size: cover;
+}
+
+#profile{
+  width: 680px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#containerFotoPerfil{
+  width: 94px;
+  height: 94px;
+  padding: 4px;
+  border-radius: 9999px;
+  border: solid 2px var(--red);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 56px;
+}
+
+#fotoPerfil{
+  width: 90px;
+  height: 90px;
+  border-radius: 9999px;
+}
+
+#imgcode{
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  margin-bottom: 56px;
+  border: solid 3px var(--red) ;
+}
+
+#CaretDoubleDown{
+  margin-top: 94px;
+}
+
+header h1 {
+  color: var(--gray-600);
+  font: var(--title-lg);
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#firstP{
+  font: var(--font-incosolata)
+}
+
+header p {
+  font: var(--text-sm);
+  color: var(--gray-400);
+  text-align: center;
+}
+
+header ul{
+  display: flex;
+  list-style: none;
+  gap: 16px;
+  margin-top: 80px;
+  color: var(--gray-500);
+  font: var(--text-md);
+}
+
+header ul li{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background-color: var(--gray-300);
+  border-radius: 999px;
+  padding: 8px 16px;
+}
+
+
