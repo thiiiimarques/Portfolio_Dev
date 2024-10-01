@@ -3,6 +3,14 @@ footer{
   display: grid;
   justify-content: center;
   align-items: center;
+
+  /* Outra possibilidade de chegar ao mesmo resultado!!
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; 
+  */
   height: 787px;
   background-image: url(../assets/images/Background_Contacts.png);
   background-size: cover;
