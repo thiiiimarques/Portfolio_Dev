@@ -31,9 +31,9 @@ A página tem como propósito promover os projetos de um desenvolvedor de softwa
 
 ## Visualização do Projeto
 
-Confira o layout da landing page:
+Confira o layout da página:
 
-<img src="capaProjeto.png" alt="Preview do projeto Zingen - Karaokê" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<img src="capaProjeto.png" alt="Página modelo do Projeto" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 
 ---
 
